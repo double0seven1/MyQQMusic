@@ -10,5 +10,6 @@ MyWidget::MyWidget(QWidget *parent)
 
 MyWidget::~MyWidget()
 {
+
     delete ui;
 }
